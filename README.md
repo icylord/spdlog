@@ -58,7 +58,7 @@ Time needed to log 1,000,000 lines in synchronous mode (in seconds, the best of 
 #### Fast Mode
 |threads|spdlog|spdlog fast|
 |-------|------:|------:|
-|1|     |0.560s|0.394s|
+|1|     0.560s|0.394s|
 
 
 #### Asynchronous mode
