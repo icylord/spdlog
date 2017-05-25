@@ -11,6 +11,7 @@
 #include "spdlog/spdlog.h"
 #include "spdlog/details/registry.h"
 #include "spdlog/sinks/file_sinks.h"
+#include "spdlog/sinks/fastfile_sinks.h"
 #include "spdlog/sinks/stdout_sinks.h"
 #ifdef SPDLOG_ENABLE_SYSLOG
 #include "spdlog/sinks/syslog_sink.h"
